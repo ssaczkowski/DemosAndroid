@@ -31,21 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SportsAdapter.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/materialme/SportsAdapter.java">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/materialme/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="67" column="7" lean-forward="true" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="36" lean-forward="false" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+            <state relative-caret-position="162">
+              <caret line="34" column="41" lean-forward="true" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -56,6 +46,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>onBindViewHolder</find>
+      <find>itemView</find>
     </findStrings>
   </component>
   <component name="GradleLocalSettings">
@@ -1808,10 +1799,10 @@
       <list>
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/materialme/Sport.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/materialme/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/list_item.xml" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/materialme/SportsAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/materialme/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -1931,7 +1922,7 @@
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="sync.plugin.last.upgrade.timestamp" value="1535469582838" />
-    <property name="device.picker.selection" value="Nexus_5_API_26" />
+    <property name="device.picker.selection" value="ZY2227L5V5" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2172,10 +2163,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/materialme/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/materialme/SportsAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="68" column="56" lean-forward="true" selection-start-line="68" selection-start-column="56" selection-end-line="68" selection-end-column="56" />
+        <state relative-caret-position="288">
+          <caret line="55" column="26" lean-forward="true" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -2188,10 +2179,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/materialme/SportsAdapter.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/materialme/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="67" column="7" lean-forward="true" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="7" />
+        <state relative-caret-position="162">
+          <caret line="34" column="41" lean-forward="true" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
           <folding />
         </state>
       </provider>
