@@ -59,6 +59,8 @@ public class MainActivity extends AppCompatActivity {
         mAdapter = new SportsAdapter(this, mSportsData);
         mRecyclerView.setAdapter(mAdapter);
 
+        fab = (FloatingActionButton) findViewById(R.id.fab);
+
         ItemTouchHelper itemTouchHelper = new ItemTouchHelper(new ItemTouchHelper.SimpleCallback(ItemTouchHelper.LEFT | ItemTouchHelper.RIGHT |
                 ItemTouchHelper.DOWN | ItemTouchHelper.UP, ItemTouchHelper.LEFT | ItemTouchHelper.RIGHT) {
             @Override
@@ -81,9 +83,6 @@ public class MainActivity extends AppCompatActivity {
         });
 
         itemTouchHelper.attachToRecyclerView(mRecyclerView);
-
-        fab = (FloatingActionButton) findViewById(R.id.fab);
-
 
 
         //Get the data
