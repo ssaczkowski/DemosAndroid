@@ -3,15 +3,6 @@
 
     <item
         is-multidex="false"
-        jar="/home/ssaczkowski/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
-        <dex dex="/home/ssaczkowski/Escritorio/Repos/DemosAndroid/DemoSport/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/glide-3.5.2_0840fd06ac01c693ec8397d4d476fe3fc29c4342.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/ssaczkowski/Escritorio/Repos/DemosAndroid/DemoSport/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -30,12 +21,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/ssaczkowski/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jar="/home/ssaczkowski/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.2/bfc967828daffc35ba01c9ee204d98b664930a0f/constraint-layout-solver-1.1.2.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.0"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/home/ssaczkowski/Escritorio/Repos/DemosAndroid/DemoSport/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_8ced65ec620364568c6d524db6736c47ebc641fc.jar" />
+        sha1="bfc967828daffc35ba01c9ee204d98b664930a0f">
+        <dex dex="/home/ssaczkowski/Escritorio/Repos/DemosAndroid/DemoSport/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.1.2_3e4852a99642fd0aa4b213184141a35a2b27046d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ssaczkowski/Escritorio/Repos/DemosAndroid/DemoSport/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.1.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="182370a4a0bba7903c6ff2cb7b6ac21ca4a4bf89">
+        <dex dex="/home/ssaczkowski/Escritorio/Repos/DemosAndroid/DemoSport/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.1.2_542e5b27f9adbd36b5a6cd3edbdcc8666913c66d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -45,15 +45,6 @@
         revision="24.0.0"
         sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
         <dex dex="/home/ssaczkowski/Escritorio/Repos/DemosAndroid/DemoSport/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_19bdaf9c2204e4e87d002b96c1bd605de1f0c737.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ssaczkowski/Escritorio/Repos/DemosAndroid/DemoSport/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
-        <dex dex="/home/ssaczkowski/Escritorio/Repos/DemosAndroid/DemoSport/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.1_6aa6347e2a96373887d561d35c495343981d514d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -72,6 +63,33 @@
         revision="24.0.0"
         sha1="787871951412550519b0222aba3c9df4cea49875">
         <dex dex="/home/ssaczkowski/Escritorio/Repos/DemosAndroid/DemoSport/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.1.1_cd64b2a851c2d01808e63887c7ea89082a3620b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ssaczkowski/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/home/ssaczkowski/Escritorio/Repos/DemosAndroid/DemoSport/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/glide-3.5.2_0840fd06ac01c693ec8397d4d476fe3fc29c4342.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ssaczkowski/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/ssaczkowski/Escritorio/Repos/DemosAndroid/DemoSport/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_8ced65ec620364568c6d524db6736c47ebc641fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ssaczkowski/Escritorio/Repos/DemosAndroid/DemoSport/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/home/ssaczkowski/Escritorio/Repos/DemosAndroid/DemoSport/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.1_6aa6347e2a96373887d561d35c495343981d514d.jar" />
     </item>
     <item
         is-multidex="false"
